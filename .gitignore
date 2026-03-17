@@ -11,5 +11,5 @@ __pycache__/
 # OS files
 .DS_Store
 
-# Model files (optional)
-*.pkl
+# # Model files (optional)
+# *.pkl
